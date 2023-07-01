@@ -1,0 +1,41 @@
+Basit Not Defteri Uygulaması
+
+Bu proje, kullanıcıların metin tabanlı notları oluşturmasını, düzenlemesini ve yönetmesini sağlayan bir basit not defteri uygulamasıdır. Bu uygulama, C++ programlama dilinde geliştirilmiş olup Git'i kullanarak sürüm kontrolü sağlamaktadır.
+	
+	Özellikler
+
+    Not oluşturma, düzenleme, silme ve arama işlevleri
+    Verilerin metin dosyasında depolanması
+    Kullanıcı dostu komut satırı arayüzü (CLI)
+    Sürüm kontrolü ve proje yönetimi için Git entegrasyonu
+
+	Katkıda Bulunma
+
+	Bu proje hala geliştirme aşamasındadır. Katkıda bulunmak için aşağıdaki adımları izleyin:
+
+    Bu projeyi kendi GitHub hesabınıza "fork" edin.
+    Yerel bir kopya oluşturmak için projeyi bilgisayarınıza klonlayın.
+    Değişikliklerinizi yapın ve taahhüt edin (git commit).
+    Yerel klonunuzdaki değişiklikleri GitHub deposuna göndermek için bir "push" işlemi gerçekleştirin (git push).
+    Kendi GitHub hesabınızdan orijinal projeye bir "pull request" gönderin.
+
+Simple Notepad Application
+
+	This project is a simple notepad application that allows users to create, edit, and manage text-based notes. This application is developed in C++ 	programming language and utilizes Git for version control.
+	
+	Features
+
+    Note creation, editing, deletion, and search functionality
+    Data storage in text files
+    User-friendly command-line interface (CLI)
+    Git integration for version control and project management
+
+	Contributing
+
+	This project is still under development. To contribute, follow these steps:
+
+    "Fork" this project to your own GitHub account.
+    Clone the project to your local machine to create a local copy.
+    Make your changes and commit them (git commit).
+    Perform a "push" operation to send the changes to the GitHub repository in your local clone (git push).
+    Submit a "pull request" from your own GitHub account to the original project.
