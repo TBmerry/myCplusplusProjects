@@ -1,0 +1,88 @@
+-----EN-----
+Operating System Simulation
+
+This project was created to perform a simple operating system simulation in the C++ programming language. It was developed to understand and apply the basic components of operating systems. The project includes operating system components such as process management, memory management, input/output management, and user interface.
+Requirements
+
+    C++ compiler (eg GCC, Clang)
+    C++ IDE (e.g. Visual Studio, Eclipse CDT, Code::Blocks, CLion)
+
+Setup
+
+    Clone this repository to your computer or download it as ZIP.
+
+shell
+
+git clone https://github.com/your-username/operating-system-simulation.git
+
+    Open your C++ IDE and import the project file.
+
+    Compile and run the project file.
+
+Contributions
+
+If you would like to make your contributions to this project, follow these steps:
+
+    "Fork" this repository into your GitHub account.
+
+    Create a new branch with your changes.
+
+    Make your changes and complete your edits.
+
+    Submit a "pull request" (PR) with explanations explaining the changes made.
+
+Licence
+
+This project is licensed under the MIT License. For more information, you can review the LICENSE file.
+Communication
+
+If you have any questions or suggestions regarding the project, please contact me at [email protected].
+
+This README file was created to provide basic information about the project and to share the installation, usage, contribution and licensing information of the project.
+
+Good luck!
+
+----TR-----
+İşletim Sistemi Simülasyonu
+
+Bu proje, C++ programlama dilinde basit bir işletim sistemi simülasyonunu gerçekleştirmek için oluşturulmuştur. İşletim sistemlerinin temel bileşenlerini anlamak ve uygulamak amacıyla geliştirilmiştir. Proje, süreç yönetimi, bellek yönetimi, giriş/çıkış yönetimi ve kullanıcı arabirimi gibi işletim sistemi bileşenlerini içermektedir.
+Gereksinimler
+
+    C++ derleyicisi (ör. GCC, Clang)
+    C++ IDE (ör. Visual Studio, Eclipse CDT, Code::Blocks, CLion)
+
+Kurulum
+
+    Bu depoyu bilgisayarınıza klonlayın veya ZIP olarak indirin.
+
+shell
+
+git clone https://github.com/your-username/operating-system-simulation.git
+
+    C++ IDE'nizi açın ve proje dosyasını içe aktarın.
+
+    Proje dosyasını derleyin ve çalıştırın.
+
+Katkılar
+
+Katkılarınızı bu projeye yapmak isterseniz, aşağıdaki adımları izleyin:
+
+    Bu depoyu kendi GitHub hesabınıza "fork" edin.
+
+    Yaptığınız değişiklikleri içeren yeni bir dal (branch) oluşturun.
+
+    Değişikliklerinizi yapın ve düzenlemelerinizi tamamlayın.
+
+    Yapılan değişiklikleri açıklayan açıklamalarla birlikte bir "pull request" (PR) gönderin.
+
+Lisans
+
+Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
+İletişim
+
+Eğer projeye dair herhangi bir sorunuz veya öneriniz varsa, lütfen [email protected] adresinden bana ulaşın.
+
+Bu README dosyası, projeyle ilgili temel bilgileri sağlamak ve projenin kurulumu, kullanımı, katkı sağlanması ve lisans bilgilerini paylaşmak için oluşturulmuştur.
+
+Başarılar dilerim!
+
