@@ -1,0 +1,44 @@
+# Gömülü Sistem Kontrolü Projesi
+
+Bu proje, gömülü sistem kontrolü için basit bir yazılım geliştirmeyi amaçlamaktadır. İlgili giriş/çıkış pinlerini sanal olarak ayarlayarak, LED'in yanıp sönmesi veya motorun dönmesi gibi işlemleri gerçekleştirebilirsiniz.
+
+## Başlangıç
+
+Bu adımları izleyerek projeyi yerel makinenizde çalıştırabilir ve test edebilirsiniz.
+
+### Gereksinimler
+
+- Visual Studio 2017 veya üzeri
+- Windows işletim sistemi
+- C++ derleyicisi
+
+### Kurulum
+
+1. Bu projeyi GitHub'dan veya diğer kaynaklardan indirin ve yerel bir dizine kaydedin.
+2. Visual Studio'yu açın ve projeyi açmak için "Dosya" menüsünden "Aç" seçeneğini seçin.
+3. Proje dizinine gidin ve `.sln` uzantılı Visual Studio çözüm dosyasını seçin.
+
+### Proje Ayarları
+
+1. Visual Studio'da "Proje" menüsünden "Proje Özellikleri"ni seçin.
+2. "Yapılandırma" seçeneğini seçin ve "Platfom" olarak uygun mimariyi seçin (x86 veya x64).
+3. "C/C++" altında "Genel" sekmesini seçin ve "Ek İçerme Dizinleri" alanına `C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt` yolu ekleyin.
+4. "Bağlama" altında "Ek Kütüphane Dizinleri" alanına `C:\Program Files (x86)\Windows Kits\10\Lib\10.0.19041.0\ucrt` yolu ekleyin.
+
+### Çalıştırma
+
+1. Visual Studio'da "F5" tuşuna basarak veya "Başlat" düğmesine tıklayarak projeyi derleyin ve çalıştırın.
+2. Program çalıştığında, LED'in yanıp sönmesi ve motorun dönmesi gibi işlemleri simüle eden çıktıları görmelisiniz.
+
+## Katkılar
+
+Katkılarınızı memnuniyetle karşılıyoruz! Projeyle ilgili herhangi bir iyileştirme veya yeni özellik eklemek için bir "pull request" gönderebilirsiniz.
+
+## Lisans
+
+Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına başvurun.
+
+## İletişim
+
+Eğer herhangi bir sorunuz veya geri bildiriminiz varsa, bana ulaşmak için [e-posta adresiniz] adresini kullanabilirsiniz.
+
