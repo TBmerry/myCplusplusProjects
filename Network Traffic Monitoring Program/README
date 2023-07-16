@@ -1,0 +1,64 @@
+# Network Traffic Monitoring Program
+
+This project is a C++ program designed to monitor and analyze network traffic. The program listens to network packets, collects data, and performs various analyses on the data.
+
+## Requirements
+
+- C++ Compiler (GCC or Clang recommended)
+- pcap Library (for network packet capturing)
+
+## How to Use
+
+1. Clone this repository to your local machine.
+2. Compile the C++ program using your preferred compiler.
+3. Run the executable.
+4. The program will start capturing network packets and display real-time statistics on the console.
+
+## Features
+
+- Collects and analyzes TCP and UDP packets separately.
+- Calculates the total number of packets and average packet sizes for each protocol.
+- Tracks total data transfer (in bytes) for each protocol.
+- Provides timestamp information for peak data usage periods.
+- Allows users to filter data by protocol, IP address, or port number.
+
+## Contributions
+
+Contributions to this project are welcome. If you have any suggestions, bug reports, or improvements, feel free to create a pull request.
+
+## License
+
+This project is licensed under the MIT License
+
+            ------------------------------ TR --------------------
+# Ağ Trafik İzleme Programı
+
+Bu proje, ağ trafiğini izlemek ve analiz etmek için tasarlanmış C++ bir programdır. Program, ağ paketlerini dinler, verileri toplar ve veriler üzerinde çeşitli analizler gerçekleştirir.
+
+## Gereksinimler
+
+- C++ Derleyici (GCC veya Clang önerilir)
+- pcap Kütüphanesi (ağ paketlerini yakalamak için)
+
+## Kullanım
+
+1. Bu depoyu yerel makinenize klonlayın.
+2. C++ programını tercih ettiğiniz derleyici ile derleyin.
+3. Çalıştırılabilir dosyayı çalıştırın.
+4. Program, ağ paketlerini yakalamaya başlayacak ve gerçek zamanlı istatistikleri konsola yazdıracaktır.
+
+## Özellikler
+
+- TCP ve UDP paketlerini ayrı ayrı toplar ve analiz eder.
+- Her protokol için paket sayısını ve ortalama paket boyutlarını hesaplar.
+- Her protokol için toplam veri transferini (byte cinsinden) takip eder.
+- Veri kullanımının yoğun olduğu zaman aralıkları için zaman damgası bilgisi sağlar.
+- Kullanıcılara protokol, IP adresi veya port numarasına göre veri filtreleme seçeneği sunar.
+
+## Katkılar
+
+Bu projeye katkıda bulunmaları için katkıda bulunanlar hoşgeldiniz. Herhangi bir öneriniz, hata raporu veya iyileştirme için pull request oluşturabilirsiniz.
+
+## Lisans
+
+Bu proje MIT Lisansı altında lisanslanmıştır
